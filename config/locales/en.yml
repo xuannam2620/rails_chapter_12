@@ -4,11 +4,13 @@ en:
   contact: "Contact"
   help: "Help"
   home: "Home"
-
   home_page:
+    welcome: "Welcome to the Sample App"
     this_is_the_home_page_for_the: "This is the home page for the"
     tutorial_name: "Ruby on Rails Tutorial"
     sample_application: "sample application"
+    signup_now: "Sign up now!"
+    rails_logo: "Rails logo"
   help_page:
     tutorial_name: "Ruby on Rails Tutorial"
     the: "the"
@@ -32,3 +34,14 @@ en:
     to_teach_web_development_with: "to teach web development with"
     ruby_on_rails: "Ruby on Rails"
     last_line: "This is the sample application for the tutorial."
+  signup_page:
+    title: "Sign up"
+    description: "This will be a signup page for new users."
+  header_page:
+    sample_app: "sample app"
+  footer_page:
+    the: "The"
+    tutorial_name: "Ruby on Rails Tutorial"
+    by: "by"
+    author: "Michael Hartl"
+    news: "News"
