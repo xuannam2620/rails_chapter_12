@@ -42,6 +42,11 @@ en:
     create_my_account: "Create my account"
   header_page:
     sample_app: "sample app"
+    users: "Users"
+    account: "Account"
+    profile: "Profile"
+    settings: "Settings"
+    logout: "Log out"
   footer_page:
     the: "The"
     tutorial_name: "Ruby on Rails Tutorial"
@@ -50,3 +55,8 @@ en:
     news: "News"
   error_page:
     the_form_contains: "The form contains"
+  login_page:
+    login: "Log in"
+    new_user: "New user?"
+    sign_up_now: "Sign up now!"
+    invalid_email_password: "Invalid email/password combination"
