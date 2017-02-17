@@ -60,3 +60,4 @@ en:
     new_user: "New user?"
     sign_up_now: "Sign up now!"
     invalid_email_password: "Invalid email/password combination"
+    remember_me: "Remember me on this computer"
