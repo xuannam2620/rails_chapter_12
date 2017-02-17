@@ -38,7 +38,7 @@ en:
   signup_page:
     title: "Sign up"
     description: "This will be a signup page for new users."
-    confirmation: "Confirmation"
+    password_confirmation: "Confirmation"
     create_my_account: "Create my account"
   header_page:
     sample_app: "sample app"
@@ -61,3 +61,20 @@ en:
     sign_up_now: "Sign up now!"
     invalid_email_password: "Invalid email/password combination"
     remember_me: "Remember me on this computer"
+  edit_page:
+    header: "Update your profile"
+    title: "Edit user"
+    save_changes: "Save changes"
+    change_gavatar: "change"
+    password_confirmation: "Confirmation"
+    profile_updated: "Profile updated"
+  flash:
+    profile_updated: "Profile updated"
+    please_log_in: "Please log in"
+  index_page:
+    title: "All users"
+    header: "All users"
+    you_sure: "Are you sure?"
+    delete: "Delete"
+    successfully_deleted: "User was successfully deleted."
+    delete_failed: "There was a problem deleting this user."

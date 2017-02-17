@@ -1,2 +1,4 @@
 login:
   remember_me: "1"
+users:
+  users_per_page: 10

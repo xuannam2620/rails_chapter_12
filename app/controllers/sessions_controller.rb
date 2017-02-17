@@ -7,7 +7,7 @@ class SessionsController < ApplicationController
     if user && user.authenticate(params[:sessions][:password])
       login user
       params[:sessions][:remember_me] == Settings.login.remember_me ? remember(user): forget(user)
-      redirect_to user
+      redirect_back_or user
     else
       flash.now[:danger] = t "login_page.invalid_email_password"
       render :new
