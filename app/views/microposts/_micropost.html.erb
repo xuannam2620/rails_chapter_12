@@ -1,8 +1,0 @@
-<li id="micropost-<%= micropost.id %>">
-  <%= link_to gavatar_for(micropost.user, size: 50), micropost.user %>
-  <span class="user"><%= link_to micropost.user.name, micropost.user %></span>
-  <span class="content"><%= micropost.content %></span>
-  <span class="timestamps">
-    <%= t "microposts_show.posted" %> <%= time_ago_in_words micropost.created_at %> <%= t "microposts_show.ago" %>.
-  </span>
-</li>
