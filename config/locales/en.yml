@@ -86,6 +86,7 @@ en:
     delete: "Delete"
     successfully_deleted: "User was successfully deleted."
     delete_failed: "There was a problem deleting this user."
+    microposts: "Microposts"
   mailer:
     subject: "Account activation"
     activate: "Activate"
@@ -110,3 +111,6 @@ en:
     header: "Reset password"
     password_confirmation: "Confirmation"
     cant_be_empty: "can't be empty!"
+  microposts_show:
+    posted: "Posted"
+    ago: "ago"
